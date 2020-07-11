@@ -1,8 +1,1 @@
-client id
-271352244872-vdaghd7bjjgi59qihchmltr361mr1i13.apps.googleusercontent.com
 
-client secret
-1P8mf9S7oKba4fKO2cogWjzu
-
-api key
-AIzaSyAfhdQ7cJusuP-f757ebKYp11125dkTrjk
